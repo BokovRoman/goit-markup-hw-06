@@ -829,7 +829,7 @@ button:focus > .icon-close {
   color: var(--primary-text-color);
 }
 
-/*    autocomplete- обнуление стилей от браузера
+/*    autocomplete- обнуление стилей от браузера*/
 
 .form-input:-webkit-autofill,
 .form-input:-webkit-autofill:hover,
@@ -837,7 +837,7 @@ button:focus > .icon-close {
   -webkit-text-fill-color: var(--primary-text-color));
   -webkit-box-shadow: 0 0 0px 1000px var(--white-color) inset;
 }
-*/
+
 
 .form-input {
   padding-left: 42px;
